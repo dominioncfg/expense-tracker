@@ -1,6 +1,6 @@
 using ExpenseManagement.Core;
 
-namespace FinancialForecaster.UnitTest
+namespace ExpenseManagement.UnitTests
 {
     public class WhenCalculatingDetailedForecast
     {
